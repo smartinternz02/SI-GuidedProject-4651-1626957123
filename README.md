@@ -34,7 +34,7 @@ Smart Maths tutor system is a web based graphical user interface where a user ge
 
 # Website Screenshots
 ![](https://github.com/smartinternz02/SI-GuidedProject-4651-1626957123/blob/master/Project%20Screenshots/2021-07-29%20(1).png)
-![](Screenshots/SS2.png)
+![](SI-GuidedProject-4651-1626957123/Project Screenshots/2021-07-29.png)
 ![](Screenshots/SS3.png)
 ![](Screenshots/SS4.png)
 ![](Screenshots/SS5.png)
